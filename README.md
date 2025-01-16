@@ -21,7 +21,7 @@
 **Descripción**
 ------------
 
-Bienvenido al repositorio de acompañamiento al curso Online de Data Science de TheBridge dedicado en exclusiva a los enunciados de los ejercicios (de entrenamiento, extras y obligatorios).
+Bienvenido al repositorio personal de Anna, estudiante del Bootcamp de Data Science de TheBridge. Aquí encontrareis el repositorio de acompañamiento al curso Online de Data Science de TheBridge dedicado en exclusiva a los enunciados de los ejercicios (de entrenamiento, extras y obligatorios).
 
 El repositorio se divide en los mismos módulos que el repositorio principal:
 
